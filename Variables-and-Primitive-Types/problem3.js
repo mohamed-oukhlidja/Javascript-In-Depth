@@ -20,3 +20,5 @@ const doYouEnjoyIt = undefined;
 console.log(typeof doYouEnjoyIt);
 
 //   *HINT* - MDN Web Docs are a good resource
+
+
