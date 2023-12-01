@@ -1,7 +1,22 @@
 /* 
-    1. Declare a variable using let with any name you like, but without a value.
-    2. On a separate line, assign the variable the String: "Moo!"
-    3. Log out this variable to the terminal using console.log
-    
-    Repeat the above steps but try using a const variable. What happens?
-*/
+    Use Google/search to look up the *typeof* operator in Javascript.
+
+    Use typeof to log out the types for each of the 5 primitive types
+    to the terminal using console.log.*/
+//    - String
+const name = "mohamed";
+console.log(typeof name);
+//    - Number
+const age = 24;
+console.log(typeof age);
+//    - Boolean
+const learningJavascript = true;
+console.log(typeof learningJavascript);
+//    - Null
+const doYouLikeIt = null;
+console.log(typeof doYouLikeIt);
+//    - Undefined
+const doYouEnjoyIt = undefined;
+console.log(typeof doYouEnjoyIt);
+
+//   *HINT* - MDN Web Docs are a good resource
