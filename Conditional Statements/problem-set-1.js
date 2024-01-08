@@ -9,17 +9,16 @@
     8. Change animal to different values to make sure it works in all cases
 */
 
-
 /* *********w solutions *********** */
 
 console.log("--- Animal Checker Program ---");
 let animal = "cat";
 if (animal === "cat") {
   console.log("mewo");
-} else if (animal === 'dog') {
+} else if (animal === "dog") {
   console.log("woof");
 } else {
   console.log("must be an alien");
 }
 
-console.log("--- Animal check complete ---");
+console.log("--- Animal check complete ---");   

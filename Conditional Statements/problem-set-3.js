@@ -16,4 +16,6 @@ if (age < 3) {
   console.log("Most places consider you an adult.");
 } else {
   console.log("What? How did this happen!?");
-}
+} 
+
+  
