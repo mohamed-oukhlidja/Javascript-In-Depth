@@ -14,7 +14,7 @@ let vip =3
 console.log(vip ||= 3);
 
 // 3. let loggedIn = null;
-//    loggedIn ??= 0; this equal to null ?? 0 so it will log null
+//    loggedIn ??= 0; this equal to null ?? 0 so it will log 0
 let loggedIn = null;
 console.log( loggedIn ??= 0);
 
