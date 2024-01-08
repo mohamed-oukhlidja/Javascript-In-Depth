@@ -8,6 +8,8 @@
     7. At the end of the program print out: "--- Animal check complete ---"
     8. Change animal to different values to make sure it works in all cases
 */
+
+
 /* *********w solutions *********** */
 
 console.log("--- Animal Checker Program ---");
