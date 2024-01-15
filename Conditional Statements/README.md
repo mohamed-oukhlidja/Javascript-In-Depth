@@ -78,4 +78,4 @@ if (!isLoggedIn) {
 Understanding conditional statements is crucial in JavaScript programming, as they allow for dynamic and flexible code execution based on different conditions. By using if, if...else, if...else if...else, switch statements, and logical operators, developers can create versatile and efficient code structures to handle various scenarios and make their applications more responsive and intelligent.
 
 These foundational concepts of conditional statements lay the groundwork for more complex decision-making in JavaScript, enabling developers to build robust and interactive web applications.
-
+  
