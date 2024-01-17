@@ -4,3 +4,18 @@
 
     Do the same for all odd numbers as well.
 */
+
+let number = 10;
+while (number <= 40) {
+  if (number % 2 === 0) {
+    console.log(number);
+  }
+  number++;
+}
+
+while (number <= 40) {
+  if (number % 2 != 0) {
+    console.log(number);
+  }
+  number++;
+}
