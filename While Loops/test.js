@@ -7,5 +7,6 @@ let a = 0;
 while (a < 10) {
   console.log("hello med ");
   break
+  console.log();
   a++
 }
