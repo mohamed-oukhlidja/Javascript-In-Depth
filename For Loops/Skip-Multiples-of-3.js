@@ -1,0 +1,1 @@
+// Write a function that takes a number as a parameter and uses a for loop to print all numbers from 1 to that number, skipping multiples of 3.
