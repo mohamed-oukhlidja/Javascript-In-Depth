@@ -1,7 +1,5 @@
-const sayHello = () => {
-  console.log("hello world ");
+const getRandomNumber = () => {
+  return Math.floor(Math.random() * (100 - 10 + 1)) + 10;
 };
 
-for (let i = 0; i < 10; i++) {
-  sayHello();
-}
+console.log(getRandomNumber());
